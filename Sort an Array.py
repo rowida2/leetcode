@@ -1,5 +1,4 @@
-# Problem: https://leetcode.com/problems/sort-an-array/description/
-# using Merge Sort
+# Merge Sort
 # Time complexity O(n log n)
 # Medium
 
